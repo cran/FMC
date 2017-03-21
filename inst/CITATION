@@ -1,0 +1,67 @@
+citHeader("To cite package 'FMC' in publications use:")
+
+citEntry(entry = "Manual",
+  title        = "FMC: Factorial Experiments with
+                  Minimum Level Changes",
+  author       = personList(as.person("Shwetank Lall"),
+                            as.person("Arpan Bhowmik"),
+                            as.person("Eldho Varghese"),
+                            as.person("Seema Jaggi"),
+                            as.person("Cini Varghese")
+                            ),
+  note      = "R package version 1.0.0",
+  year         = "2017",
+  url       = "https://CRAN.R-project.org/package=FMC",
+  volume       = "",
+  number       = "",
+  pages        = "",
+
+  textVersion  =
+  paste(" Shwetank Lall, Arpan Bhowmik, Eldho Varghese, Seema Jaggi, and Cini Varghese (2017)",
+        "FMC: Factorial Experiments with
+                  Minimum Level Changes",
+        "R package version 1.0.0",
+        "https://CRAN.R-project.org/package=FMC")
+)
+
+
+
+citEntry(entry = "Article",
+  title        = "Minimally changed run sequences in factorial      experiments",
+  author       = personList(as.person("Arpan Bhowmik"),
+                            as.person("Eldho Varghese"),
+                            as.person("Seema Jaggi"),
+                            as.person("Cini Varghese")
+                            ),
+  journal      = "Communications in Statistics- Theory and Methods",
+  year         = "2016",
+  volume       = "",
+  number       = "",
+  pages        = "",
+
+  textVersion  =
+  paste(" Arpan Bhowmik, Eldho Varghese,Seema Jaggi, Cini Varghese and            (2016)",
+        "Minimally changed run sequences in factorial experiments",
+        "Communications in Statistics- Theory and Methods")
+)
+
+citEntry(entry = "Article",
+  title        = "Factorial Experiments with Minimum                        Changes in Run Sequences",
+  author       = personList(as.person("Arpan Bhowmik"),
+                            as.person("Eldho Varghese"),
+                            as.person("Seema Jaggi"),
+                            as.person("Cini Varghese")
+                            ),
+  journal      = "Journal of the Indian Society of
+                   Agricultural Statistics",
+  year         = "2015",
+  volume       = "69",
+  number       = "3",
+  pages        = "243-255",
+
+  textVersion  =
+  paste(" Arpan Bhowmik, Eldho Varghese,Seema Jaggi, and  Cini Varghese (2015)",
+        "Factorial Experiments with Minimum                        Changes in Run Sequences",
+        "Journal of the Indian Society of
+          Agricultural Statistics, 69(3), 243-255")
+)

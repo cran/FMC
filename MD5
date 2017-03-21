@@ -1,0 +1,11 @@
+bf4755539ae0a59e65d9e228fb91e34f *DESCRIPTION
+483b470f83da8a4a5eb4be047c1dc0a9 *NAMESPACE
+971f5df7e696e8cc61757e6257c4b740 *R/gen_level.R
+983302e87899f1b03214649230a80b42 *R/minfact_2.R
+e5185243512bb7331bd016a08ec864b8 *R/minimal_factorial.R
+a99ce639d8757c3a53af8ce2d274463c *R/package-FMC.R
+cfad47d37b51ad7b1f7944a365ac2fbb *inst/CITATION
+c0ddb2e17f7c2831ac5c6d41c99a71eb *man/FMC.Rd
+d6459acfc3babb97f3b938ab0568e507 *man/gen.level.Rd
+949e729527b9250924118d20684b1ba0 *man/minimal.factorial.Rd
+8f97a5a322c2c305cdc51eaa6fa8a833 *man/shwet.Rd

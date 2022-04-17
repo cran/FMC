@@ -23,4 +23,3 @@ total number of levels of a factor.
 # To generate 5 levels for a factor
 gen.level(5)
 }
-

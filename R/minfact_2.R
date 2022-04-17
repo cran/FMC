@@ -7,7 +7,7 @@
 #' in the run sequence.
 #'
 #' @param x A matrix of factor level combinations
-#' @param y total number of levels of new facor
+#' @param y total number of levels of new factor
 #' @return returns a matrix of minimally changed run sequence
 #'
 #' @keywords internal

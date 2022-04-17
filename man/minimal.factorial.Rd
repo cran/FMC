@@ -23,4 +23,3 @@ z <- c(2,3,4)
 # To generate minimmaly changed run sequence
 minimal.factorial(z)
 }
-

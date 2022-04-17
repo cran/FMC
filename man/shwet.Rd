@@ -9,7 +9,7 @@ shwet(x, y)
 \arguments{
 \item{x}{A matrix of factor level combinations}
 
-\item{y}{total number of levels of new facor}
+\item{y}{total number of levels of new factor}
 }
 \value{
 returns a matrix of minimally changed run sequence
@@ -19,4 +19,3 @@ Generate Box Behnken design (BBD) with minimum level changes
 in the run sequence.
 }
 \keyword{internal}
-

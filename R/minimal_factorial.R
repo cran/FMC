@@ -20,7 +20,7 @@ minimal.factorial <- function(z){
     if(length(z) < 2){
     print("Use function gen'level")
   }else{
-  if(((z %% 1) == 0) && (z >= 2)){
+  if((max(z %% 1) == 0) && (min(z) >= 2)){
   n <- length(z)
   d <- gen.level(z[n])
 

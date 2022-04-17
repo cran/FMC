@@ -3,7 +3,6 @@
 \docType{package}
 \name{FMC}
 \alias{FMC}
-\alias{FMC-package}
 \title{FMC: A package for constructing minimallly changed run sequences
 in factorial experiments}
 \description{
@@ -33,13 +32,7 @@ gen.level: Generate integers representing the levels of a factor. \cr
 minimal.factorial: Generate minimally changed runs for asymmetric
 and symmetric factorial combinations.. \cr
 }
-\author{
-Shwetank Lall \email{shwetanklall@gmail.com}\cr
-        Arpan Bhowmik \email{arpan.stat@gmail.com} \cr
-         Eldho Varghese \email{eldhoiasri@gmail.com} \cr
-         Seema Jaggi  \email{seema@iasri.res.in} \cr
-         Cini Varghese \email{cini_v@iasri.res.in } \cr
-}
+
 \references{
 Arpan Bhowmik, Eldho Varghese, Seema Jaggi and Cini
 Varghese(2016).Minimally changed run sequences in factorial
@@ -50,4 +43,10 @@ Varghese (2015). Factorial Experiments with Minimum Changes
 in Run Sequences. Journal of the Indian Society of
 Agricultural Statistics. 69(3), 243-255.
 }
-
+\author{
+Shwetank Lall \email{shwetanklall@gmail.com}\cr
+        Arpan Bhowmik \email{arpan.stat@gmail.com} \cr
+         Eldho Varghese \email{eldhoiasri@gmail.com} \cr
+         Seema Jaggi  \email{seema@iasri.res.in} \cr
+         Cini Varghese \email{cini_v@iasri.res.in } \cr
+}
